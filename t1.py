@@ -53,3 +53,5 @@ def showskills (**skills):
 
 showskills(programming="python",math="algebra",science="physics")
 
+print("*"*50)
+
